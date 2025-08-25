@@ -1,0 +1,7 @@
+#IslamBackground {
+ width: auto; /* füllt den Bildschirm/Container */
+  height: auto; 
+  max-width: 500px; /* auf großen Monitoren nicht größer als 600px */
+  display: block;
+  margin: auto;
+}
