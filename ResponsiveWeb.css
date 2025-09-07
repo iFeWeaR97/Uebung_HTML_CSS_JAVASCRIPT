@@ -1,0 +1,8 @@
+.img{
+    width: 50%; /* Damit Designe auf jedem Bildschirm schön aussieht(Tablet Handy) werden Prozenteinheiten benutzt  */
+    font-size: 200%; /* FontSIze kann auch in Prozent angegeben werden */
+    text-decoration: underline; /* Text Dekoration festsetzen */
+    text-transform: capitalize; /* So können wir Groß- und Kleinschreibung festlegen */
+    text-shadow: 6px 4px; /* Fügt offset Schatten hinzu */
+}
+
